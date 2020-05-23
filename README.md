@@ -1,44 +1,40 @@
-# Write a Data Science Blog Post
+# Trends in Gaming Platforms and Video Games Sales
 
-## Video Game Sales 4/12/2019 - Data Analysis  (1977-2020)
+## Video Game Sales - Data Analysis and Visualization
 Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales<br>
-here my Medium post <a href="https://medium.com/@AbdulazizKTA/write-a-data-science-blog-post-f8c5e1ece761">Write a Data Science Blog Post</a>
+here my Medium post <a href="https://medium.com/@moeedkundi/write-a-data-science-blog-post-39b5152633de">Trends in Gaming Platforms and Video Games Sales</a>
 
 ## Project Motivation:
-The motivation behind the project is to study and understand the way companies develop genre the games and what is the most admired games among the players and what year was the most developed games and selling
+With a burst of growth in gaming industry, it’s interesting to analyze how different companies performed during this fast paced technological era.
   <ol>
-   <li> What is the best-selling version of the game?
-   <li>What types of games developed by the best-selling company?
-   <li> What year was the best-selling and most developed games?
+   <li>Which years saw the most sales and does data justifies the current popularity of video games?
+   <li>How did different gaming platforms do with respect to titles developed and sold?
+   <li>Is there real winner among different genres of games too?
   </ol>
     
 ### Libraries:
-I am ues <a href="anaconda.com">Anaconda</a> and jupyter noteboke inside Anaconda Navigator all Libraries you can find in Environments Anaconda Navigator
+Platform used to code and test: Jupyter Notebook
 
-Listed below all packages and libraries used in this project:
+Listed below all libraries required for this analysis:
 <ol>
-<li>Python Version (3.7.2)
-<li>Pandas (Data Processing, and manipulatoin)
-<li>NumPy (Data Processing, and manipulatoin)
-<li>Sklearn (Machine Learning model)
-<li>Plotly (Interactive Plots)
-<li>matplotlib (Visualization)
+<li>Python Version (3+)
+<li>Pandas (Data Handling and Processing)
+<li>matplotlib (Visualization and Charts)
 </ol>
 
 
 ### File description:
 <ol>
-<li> Jupyter notebook with complete analysis code
-<li> Original file Video Game Sales (vgsales_F)
-<li> Modified file  Video Game Sales (vgsales-12-4-2019)
+<li> "Gaming_Platform_Analysis.ipynb" with complete code
+<li> Sales data for video games 'vgsales.csv'
 </ol>
 
 ## summary
-A summary of the results of the analysis is described in detailed as <a href="https://github.com/Abdulaziz-KTA/Write-A-Data-Science-Blog-Post/blob/master/Video_Game_Sales_12_4_2019.ipynb">Jupyter notebook</a>
+Data Analysis showed that Sony PS2 is the most succesful gaming platform till date and "Action" and "Sports" genres are the two most popular themes among gamers. For detailed analysis, please read the blog post linked above. 
 
 
 ## Acknowledgements
-<b>This data was created by <a href="vgchartz.com">vgchartz.com</a> this data can be obtained by <a href="https://www.kaggle.com/ashaheedq/video-games-sales-2019">Video Games Sales 2019 (kaggle)
+<b>Data Collector and Shaper: <a href="vgchartz.com">vgchartz.com</a> Kaggle Link: <a href="https://www.kaggle.com/gregorut/videogamesales/data">Video Game Sales
 </a></b>
 
 
