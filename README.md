@@ -1,8 +1,8 @@
 # Trends in Gaming Platforms and Video Games Sales
 
 ## Video Game Sales - Data Analysis and Visualization
-Analysis of data from the beginning of 1977 to 2020 and the Genre of game, publisher, the company and the best year of publication and sales<br>
-here my Medium post <a href="https://medium.com/@moeedkundi/write-a-data-science-blog-post-39b5152633de">Trends in Gaming Platforms and Video Games Sales</a>
+Analysis of recorded sales data regarding the Genre of game, publisher, the company and the best year of publication and sales<br>
+here is my Medium post <a href="https://medium.com/@moeedkundi/write-a-data-science-blog-post-39b5152633de">Trends in Gaming Platforms and Video Games Sales</a>
 
 ## Project Motivation:
 With a burst of growth in gaming industry, it’s interesting to analyze how different companies performed during this fast paced technological era.
